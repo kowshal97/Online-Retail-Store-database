@@ -37,19 +37,7 @@ This project demonstrates **logical and physical database design** for an online
 ---
 
 ## 📸 Screenshots
-*(Add screenshots into a `screenshots/` folder so they show up here)*  
 
-- **ERD Diagram**  
-  [![ERD](./diagrams/ERD.png)](./diagrams/ERD.png)
-
-- **Logical Model**  
-  [![Logical](./diagrams/logical.png)](./diagrams/logical.png)
-
-- **Physical Model**  
-  [![Physical](./diagrams/physical.png)](./diagrams/physical.png)
-
-- **SQL Validation**  
-  [![Validation](./screenshots/validation.png)](./screenshots/validation.png)
 
 ---
 
