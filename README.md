@@ -5,7 +5,7 @@ This includes **business definition, ERD modeling, normalization, SQL implementa
 ---
 
 ## 📂 Deliverable
-- [📥 Download Presentation (PPTX)](https://github.com/YOUR-USERNAME/online-retail-store-db-design/raw/main/Lab3.pptx)
+- [📥 Download Presentation (PPTX)](https://github.com/kowshal97/Online-Retail-Store-database/blob/main/OnlineRetailStore.pptx)
 
 ---
 
